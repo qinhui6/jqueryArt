@@ -1,0 +1,10 @@
+h1{
+	color: red;
+	background: url(../../../assets/img/1.jpg);
+}
+.wechat{
+	display: flex;
+	width: 200px;
+	height: 200px;
+	background: url(../img/wechat.png);
+}

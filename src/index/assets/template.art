@@ -1,0 +1,3 @@
+<h1>{{ text }}</h1>
+<p>123<img src='{{a}}'></p>
+<div class='wechat'></div>
